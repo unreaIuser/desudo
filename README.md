@@ -1,4 +1,3 @@
--> desudo 4.0 source leak by discord -> @alterative
-# selling working executor source for fivem, bypassing adhesive $250
+this source is outdated, if you're looking for working fivem executor/pvp source, please contact me @ discord username: alterative
 
-__NOTE: Source is not exclusive to you.__, If you want exclusive changes they will make you pay extra costs.
+**it's not free ofc**, price for it is 250 us dollars, paypal/crypto
